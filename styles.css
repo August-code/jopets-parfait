@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: large;
+}
+
+.background_img {
+    position: relative;
+}
+
+.wrapper {
+    position: absolute;
+    top: 225px;
+    right: 50px;
+    background-color: antiquewhite;
+    padding: 35px;
+}
+
+.price_list {
+    padding-top: 20px;
+}
+
+.bronze {
+    padding: 10px 0 10px 0;
+}
+
+.silver {
+    padding-bottom: 10px;
+}
